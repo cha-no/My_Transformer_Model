@@ -3,7 +3,6 @@
 ### 한국어 자연언어처리
 
 - train_chunk 1개로 상품명 데이터만 이용
-- 
 - okt 한국어 형태소 분석기 이용
 - 4개의 multi head 이용
 - transformer 모델에 encoder부분 이용
