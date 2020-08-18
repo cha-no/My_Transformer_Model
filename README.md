@@ -1,4 +1,4 @@
-# Attention Model
+# Transformer Model
 ## 카카오아레나 쇼핑몰 카테고리 분류
 ### 한국어 자연언어처리
 
