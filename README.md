@@ -12,3 +12,6 @@
 ### 버전
 - tensorflow 2.0.0
 - keras 2.3.1
+
+## 데이터
+https://drive.google.com/file/d/1tI1IM3Pr8oqkBidL5CQ3Wk76MPxZ6X3t/view?usp=sharing
